@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-29)
+## Unreleased (2025-11-30)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`4ebbd97`](https://github.com/stdlib-js/stdlib/commit/4ebbd97f55188dd986e9b98b26972c3729b1f6e4) - **docs:** fix TypeScript declarations doctest lint errors _(by Philipp Burckhardt)_
 -   [`126ff36`](https://github.com/stdlib-js/stdlib/commit/126ff36b5fd11cbf87771a6a82cd942412cec0cb) - **feat:** add `lapack/base/dlarf1f` [(#7540)](https://github.com/stdlib-js/stdlib/pull/7540) _(by Aayush Khanna, Athan Reines, stdlib-bot)_
 
 </details>
@@ -34,10 +35,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
