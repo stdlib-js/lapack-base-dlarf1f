@@ -50,7 +50,7 @@ A **Householder transformation** (or an **elementary reflector**) is a linear tr
 ## Usage
 
 ```javascript
-import dlarf1f from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-dlarf1f@deno/mod.js';
+import dlarf1f from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-dlarf1f@v0.1.0-deno/mod.js';
 ```
 
 #### dlarf1f( order, side, M, N, V, strideV, tau, C, LDC, work )
@@ -233,7 +233,7 @@ var out = dlarf1f.ndarray( 'left', 4, 3, V, 1, 2, 1.0, C, 3, 1, 4, work, 1, 0 );
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@deno/mod.js';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-to-array@deno/mod.js';
 import shape2strides from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-shape2strides@deno/mod.js';
-import dlarf1f from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-dlarf1f@deno/mod.js';
+import dlarf1f from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-dlarf1f@v0.1.0-deno/mod.js';
 
 // Specify matrix meta data:
 var shape = [ 4, 3 ];
