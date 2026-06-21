@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-14)
+## Unreleased (2026-06-21)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`89ad25d`](https://github.com/stdlib-js/stdlib/commit/89ad25dc6893c7496faf3e32b92518d78072c8e3) - **chore:** fix descriptions _(by Athan Reines)_
 -   [`f9491c3`](https://github.com/stdlib-js/stdlib/commit/f9491c3fa3b043ed4c0d9ea3141cedfdd4239ee6) - **bench:** refactor to use string interpolation in `lapack/base/dlarf1f` [(#10098)](https://github.com/stdlib-js/stdlib/pull/10098) _(by Prajjwal Bajpai, Athan Reines)_
 
 </details>
