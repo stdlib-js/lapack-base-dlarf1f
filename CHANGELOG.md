@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-14)
+## Unreleased (2026-07-15)
 
 <section class="bug-fixes">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`199bb30`](https://github.com/stdlib-js/stdlib/commit/199bb30fd65e5ae83acd090f856fd0401edb8acb) - **docs:** update descriptions [(#13481)](https://github.com/stdlib-js/stdlib/pull/13481) _(by Philipp Burckhardt)_
 -   [`fa17ce3`](https://github.com/stdlib-js/stdlib/commit/fa17ce33010f7158363becd02e0545c35a548e97) - **fix:** address off-by-one indexing bug [(#13436)](https://github.com/stdlib-js/stdlib/pull/13436) _(by Aayush Khanna, Athan Reines)_
 -   [`0c1e34d`](https://github.com/stdlib-js/stdlib/commit/0c1e34d0a376db33740aed4f1144af35da039bca) - **bench:** fix name _(by Athan Reines)_
 -   [`89ad25d`](https://github.com/stdlib-js/stdlib/commit/89ad25dc6893c7496faf3e32b92518d78072c8e3) - **chore:** fix descriptions _(by Athan Reines)_
@@ -37,10 +38,11 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
+-   Philipp Burckhardt
 -   Prajjwal Bajpai
 
 </section>
